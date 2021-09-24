@@ -6,6 +6,8 @@ Nesse repo você encontrará vários cursos gratuitos de programação e TI
 
 <a href="https://www.youtube.com/playlist?list=PLbCB1B9Iob35MlTKdXp0ZsiNRdXWX5IBF">Curso de Frontend com Javascript ES6+ - Codesigners</a>
 
+<a href="https://online-learning.harvard.edu/catalog?keywords=&paid%5B1%5D=1&max_price=&start_date_range%5Bmin%5D%5Bdate%5D=&start_date_range%5Bmax%5D%5Bdate%5D=">Online Free Courses - Harvard University</a>
+
 <a href="https://www.youtube.com/channel/UC5cfBZHUQpcMvBJDBaX8-jg">Vários cursos e projetos em JS - O irmão mais velho</a>
 
 <a href="https://alunos.b7web.com.br/curso/html5-e-css3">HTML E CSS3 - B7Web</a>
@@ -13,6 +15,10 @@ Nesse repo você encontrará vários cursos gratuitos de programação e TI
 <a href="https://alunos.b7web.com.br/curso/javascript">JavaScript - B7Web</a>
 
 <a href="https://rocketseat.com.br/discover">JavaScript e WebDev - Rocketseat</a>
+
+<a href="https://www.udemy.com/course/php4noobs/">PHP4Noobs - Guia Introdutório para o PHP - danielhe4rt - Udemy</a>
+
+<a href="https://www.udemy.com/course/laravel4noobs/">Laravel4Noobs - Ensinando os fundamentos do Laravel 8 - danielhe4rt - Udemy</a>
 
 <a href="https://www.youtube.com/playlist?list=PLx4x_zx8csUgyDN7j9L7gykBjxByM_etD">Curso de React Native - CFBCursos</a>
 
